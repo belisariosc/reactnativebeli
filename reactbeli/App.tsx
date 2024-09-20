@@ -25,7 +25,7 @@ const styles = StyleSheet. create({
   box1: {
     width: 100,
     height: 100,
-    backgroundColor: 'red',
+    backgroundColor: 'green',
     justifyContent: 'center',
     alignItems: 'center',
     marginBottom: 20,
@@ -33,8 +33,8 @@ const styles = StyleSheet. create({
   box2: {
     width: 100,
     height: 100,
-    backgroundColor: 'white',
+    backgroundColor: 'purple',
     justifyContent: 'center',
-    alignContent: 'center',
+    alignItems: 'center',
   },
 })
